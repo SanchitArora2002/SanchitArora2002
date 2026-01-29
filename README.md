@@ -17,7 +17,7 @@ I am a Combined Mathematics and Computer Science student at the University of Re
 
 📈 Secure New Grad roles in Network/Infrastructure Analysis or Data Analytics for May 2026.
 
-🎯 Obtain advanced certifications, including completing the AZ-104 (Azure Administrator) path.
+🎯 Obtain advanced certifications, including completing the CCNA (Cisco Certified Network Associate), AZ-104 (Azure Administrator) path.
 
 🏗️ Bridge the gap between abstract mathematical theory and practical computer science solutions.
 
