@@ -3,6 +3,7 @@
 I am a Combined Mathematics and Computer Science student at the University of Regina with a deep interest in network security, cloud automation, and solving complex mathematical problems. My technical background is rooted in hands-on experience with SD-WAN, Azure infrastructure, and network troubleshooting.
 
 🌍 About Me
+
 🏡 From Regina, Saskatchewan.
 
 🎓 Math & CS Major, graduating in April 2026.
